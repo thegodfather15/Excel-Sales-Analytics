@@ -5,7 +5,7 @@
 
     **1.** Create a _[Customer Performance Report](https://github.com/thegodfather15/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-![Customer Performance Report.jpg](https://github.com/thegodfather15/Excel-Sales-Analytics/blob/main/Resources/Customer Performance Report.jpg)
+![Customer Performance Report.jpg](https://github.com/thegodfather15/Excel-Sales-Analytics/blob/main/Resources/Customer%Performance%20Report.jpg)
 
     **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/thegodfather15/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
