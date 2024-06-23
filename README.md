@@ -7,7 +7,10 @@
 
 ![Info.jpg](https://github.com/thegodfather15/Excel-Sales-Analytics/blob/main/Resources/Customer%20Performance%20Report.jpg)
 
-    **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/thegodfather15/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+    
+   **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/thegodfather15/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+
+   ![Info.jpg](https://github.com/thegodfather15/Excel-Sales-Analytics/blob/main/Resources/Market%20Performance%20vs%20Target%20Report.jpg)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
