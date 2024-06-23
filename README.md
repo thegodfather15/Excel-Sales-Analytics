@@ -22,7 +22,13 @@
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/thegodfather15/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/thegodfather15/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Months.pdf)_ 
 
+![Info.jpg](https://github.com/thegodfather15/Excel-Sales-Analytics/blob/main/Resources/P%20%26%20L%20by%20Fiscal%20Year.jpg)
+
+![Info.jpg](https://github.com/thegodfather15/Excel-Sales-Analytics/blob/main/Resources/P%20%26%20L%20Statement%20by%20Months.jpg)
+
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/thegodfather15/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf)_
+
+![Info.jpg](https://github.com/thegodfather15/Excel-Sales-Analytics/blob/main/Resources/P%20%26%20L%20Statement%20by%20Markets.jpg)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
